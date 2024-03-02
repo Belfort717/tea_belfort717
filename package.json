@@ -1,0 +1,22 @@
+{
+  "name": "tea_belfort717",
+  "version": "1.0.0",
+  "description": "Belfort717 tea app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Belfort717/tea_belfort717.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belfort717/tea_belfort717/issues"
+  },
+  "homepage": "https://github.com/Belfort717/tea_belfort717#readme"
+}
